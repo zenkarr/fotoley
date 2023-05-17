@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fotoley/static/css/main.e6c13ad2.css",
+    "main.js": "/fotoley/static/js/main.2bd7fbae.js",
+    "static/js/787.20c5c578.chunk.js": "/fotoley/static/js/787.20c5c578.chunk.js",
+    "index.html": "/fotoley/index.html",
+    "main.e6c13ad2.css.map": "/fotoley/static/css/main.e6c13ad2.css.map",
+    "main.2bd7fbae.js.map": "/fotoley/static/js/main.2bd7fbae.js.map",
+    "787.20c5c578.chunk.js.map": "/fotoley/static/js/787.20c5c578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2bd7fbae.js"
+  ]
+}
